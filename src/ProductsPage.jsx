@@ -19,3 +19,7 @@ export function ProductsPage() {
     </main>
   );
 }
+
+
+// Working on adding functionality to this React front end. Will need to install axios in order to link this to my rails backend. 
+// Once that is done I need to test functionality to ensure everything is running smoothly. 
